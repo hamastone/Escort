@@ -20,13 +20,13 @@ Escort is a python-coded system that balanced speed and accuracy in tracking mul
 1. Copy the optimized parameter to config.yaml in Escort/Estag/
 2. You can offer a list of tags in config.yaml using a list format.
 3. Run Estag.py in Escort/Estag/ 
-4. use command line to input parameters required. -V: video path; -O: data output path; -D: visualized video path. For example: -python Estag.py -V E:\bee\Escort\data\Movie.mp4 -O test -D test.mp4
+4. use command line to input parameters required. -V: video path; -O: data output path; -D: visualized video path. For example: python Estag.py -V E:\bee\Escort\data\Movie.mp4 -O test -D test.mp4
 --------------------------------------------
 ## Tracking by Escort
 1. Copy the optimized parameter to config.yaml in Escort/Escort/
 2. You can offer a list of tags in config.yaml using a list format.
 3. Run Escort.py in Escort/Escort/
-4.  use command line to input parameters required. -V: video path; -M: model path; -I: IOU thereshold; -S:output visualization. For example: -V E:\bee\Escort\data\Movie.mp4 -M weights/bumblebee/model.pt -I 0.0 -S True
+4.  use command line to input parameters required. -V: video path; -M: model path; -I: IOU thereshold; -S:output visualization. For example: python Escort.py -V E:\bee\Escort\data\Movie.mp4 -M weights/bumblebee/model.pt -I 0.0 -S True
 
 ## Contact
 If you have further inquiries, please contact Dr Jin Ge: gejin@ioz.ac.cn
