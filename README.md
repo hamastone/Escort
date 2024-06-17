@@ -30,3 +30,9 @@ Escort is a python-coded system that balanced speed and accuracy in tracking mul
 
 ## Contact
 If you have further inquiries, please contact Dr Jin Ge: gejin@ioz.ac.cn
+
+## Reference
+If you use Escort in your research, please cite:
+Wu, C., Ge, J., Han, B., Lan, H., Zhou, X., Ge, Z., Cui, W., Liu, X. and Wang, X. (2024), Escort: a system for rapid and long-term tracking of multiple insect objects. Insect Science. https://doi.org/10.1111/1744-7917.13407
+
+
